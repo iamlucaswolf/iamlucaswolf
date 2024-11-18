@@ -1,7 +1,7 @@
-# Hi 👋, I am Lucas Wolf</h1>
+# Hi 👋, I am Lucas Wolf
 
- - 👨🏼‍💻 I'm a Software Engineer interested in high-performance systems
- - 🚀 Currently building a main-memory database at [Celonis][celonis]
+ - 👨🏼‍💻 I'm a Software Engineer interested in high-performance systems and machine learning
+ - 🚀 Currently working on [Hyper][hyper-db] at Salesforce
  - 📫 Get in touch iamlucaswolf@gmail.com
 
- [celonis]: https://www.celonis.com
+ [hyper-db]: https://tableau.github.io/hyper-db/journey
